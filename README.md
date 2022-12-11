@@ -22,3 +22,12 @@
 
 10.	Write a program to check if a given number is prime or not.
 
+11.	Write a program for printing the Fibonacci series.
+
+12.	Write a program to find the sum & average of array elements.
+
+13.	Write a program for finding the area of shapes using functions. a. Rectangle b. Square c. Circle d. Triangle.
+
+14.	Write a program for finding the area of shapes using a switch case. a. Rectangle b. Square c. Circle d. Triangle.
+
+15.	Write a program for arithmetic operation using switch case.
